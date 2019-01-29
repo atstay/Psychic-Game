@@ -7,3 +7,6 @@ Guess all 7 wrong and your tears are mine! Guess the correct letter and you may 
 
 
 This game utilizes HTML for the skeletal structure, CSS for the design, and Javascript for the functionality.  
+
+
+https://atstay.github.io/Psychic-Game/
